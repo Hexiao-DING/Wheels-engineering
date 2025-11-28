@@ -38,8 +38,8 @@
 #   - Stratified PAF results by subgroups
 #   - Formatted table ready for publication
 #
-# AUTHOR: [Your Name]
-# DATE: [Date]
+# AUTHOR: [Hexiao Ding]
+# DATE: [28/11/2025]
 # VERSION: 1.0
 # ==============================================================================
 
@@ -561,3 +561,4 @@ message("    5. For rare outcomes, PAF ≈ Population excess risk")
 # ==============================================================================
 # END OF SCRIPT
 # ==============================================================================
+
