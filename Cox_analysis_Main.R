@@ -33,8 +33,8 @@
 #   - P for trend (dose-response)
 #   - Proportional hazards assumption test results
 #
-# AUTHOR: [Your Name]
-# DATE: [Date]
+# AUTHOR: [Hexiao Ding]
+# DATE: [28/11/2025]
 # VERSION: 1.0
 # ==============================================================================
 
@@ -561,3 +561,4 @@ message("    4. Consider sensitivity analyses (e.g., excluding early events)")
 # ==============================================================================
 # END OF SCRIPT
 # ==============================================================================
+
