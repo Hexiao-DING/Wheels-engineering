@@ -38,8 +38,8 @@
 #   - High-quality Sankey diagram (ggplot2 object)
 #   - Can be exported to PDF, PNG, or other formats
 #
-# AUTHOR: [Your Name]
-# DATE: [Date]
+# AUTHOR: [Hexiao Ding]
+# DATE: [28/11/2025]
 # VERSION: 1.0
 # ==============================================================================
 
@@ -592,3 +592,4 @@ calculate_transition_probs <- function(trans_matrix) {
 # ==============================================================================
 # END OF SCRIPT
 # ==============================================================================
+
